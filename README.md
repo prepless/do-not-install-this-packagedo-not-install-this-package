@@ -1,2 +1,1 @@
-# do-not-install-this-packagedo-not-install-this-package
-A package you should not run on your device
+DO NOT RUN THIS ON YOUR DEVICE! IT'S BROKEN!
