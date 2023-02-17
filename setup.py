@@ -12,7 +12,7 @@ setuptools.setup(
     description="A package you should not run on your device",
     long_description=description,
     long_description_content_tpye="text/markdown",
-    url="",
+    url="https://github.com/prepless/do-not-install-this-packagedo-not-install-this-package",
     license="MIT",
     python_requires='>=3.8',
     install_requires=[]
